@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* #images {
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+#images {
+    display: flex;
+    /* flex-direction: row; */
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+    /* flex-direction: row-reverse; */
+    /* flex-wrap: wrap; */
+    /* flex-wrap: nowrap; */
+    /* flex-wrap: wrap-reverse; */
+}
+
+
+
+#images div {
+        margin: 4px;
+        background-color: brown;    
+    }
